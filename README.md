@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mohammad Khaddour</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mohammad Khaddour</h2>
 
 <h3 align="center">Web Developer :computer:	|  Interested in networking and operating systems :computer:	| Active in the children's programming community :child: </h3>
 
