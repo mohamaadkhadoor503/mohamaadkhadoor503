@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://mohamad-khadoor.000webhostapp.com/personal%20website//](https://mohamad-khadoor.000webhostapp.com/personal%20website//)
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
