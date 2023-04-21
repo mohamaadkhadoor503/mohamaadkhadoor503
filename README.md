@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **contact.mohamad.khadoor@gmail.com**
 
-- 📄 Know about my experiences [https://mohamad-khadoor.000webhostapp.com/personal%20website//](https://mohamad-khadoor.000webhostapp.com/personal%20website//)
+- 📄 Know about my experiences [https://mohamad-khadoor.000webhostapp.com/personal%20website//](https://mohamad-khadoor.000webhostapp.com/)
 
 
 <!-- BLOG-POST-LIST:START -->
