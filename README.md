@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 <h2 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mohammad Khaddour</h2>
 
-<h3 align="center">Web Developer :computer:	|  Interested in networking and operating systems :computer:	| Active in the children's programming community :child: </h3>
-
+<h3 align="center">
+Web Developer 💻 | Interested in Networking and Operating Systems 🌐 | Cybersecurity Researcher & SOC Analyst 🛡️
+</h3>
 
 
 - 📫 How to reach me **contact.mohamad.khadoor@gmail.com**
