@@ -8,7 +8,7 @@
 **Building secure, scalable, and efficient software solutions.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://mohamaadkhadoor503.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-khadoor/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-khaddour/)
 [![Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.mohamad.khadoor@gmail.com)
 
 </div>
@@ -261,7 +261,7 @@ My personal portfolio showcasing my technical experience, skills, and software p
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://mohamaadkhadoor503.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-khadoor/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-khaddour/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010096322646)
 [![Khamsat](https://img.shields.io/badge/Khamsat-Freelancer-00A651?style=for-the-badge)](https://khamsat.com/user/mohmamad_khaddour_03)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mohamad.khaddour)
